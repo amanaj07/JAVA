@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GraphByAdi/GraphByAdi.iml" filepath="$PROJECT_DIR$/GraphByAdi/GraphByAdi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_zero_to_hero.iml" filepath="$PROJECT_DIR$/Java_zero_to_hero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swayam/Swayam.iml" filepath="$PROJECT_DIR$/Swayam/Swayam.iml" />
+    </modules>
+  </component>
+</project>
